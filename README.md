@@ -3,7 +3,7 @@ Um clássico Jogo da Memória desenvolvido com HTML, CSS e JavaScript puro. O pr
 
 ## 🎬 Demonstração
 
-[jogo da memoria](https://github.com/user-attachments/assets/80772344-8ff6-4862-a653-85bc650b384e)
+https://github.com/user-attachments/assets/80772344-8ff6-4862-a653-85bc650b384e
 
 
 ## ✨ Sobre o Projeto
@@ -73,7 +73,7 @@ A classic Memory Game developed with plain HTML, CSS, and JavaScript. This proje
 
 ## 🎬 Demonstration
 
-[jogo da memoria](https://github.com/user-attachments/assets/80772344-8ff6-4862-a653-85bc650b384e)
+https://github.com/user-attachments/assets/80772344-8ff6-4862-a653-85bc650b384e
 
 ## ✨ About the Project
 The Memory Game is an interactive pastime where the player needs to find all pairs of identical cards. This project implements the full game mechanics, from randomly shuffling the cards to checking for pairs and handling the win condition. It serves as an excellent exercise for anyone learning front-end development.

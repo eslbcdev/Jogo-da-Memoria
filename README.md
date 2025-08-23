@@ -2,7 +2,9 @@
 Um clássico Jogo da Memória desenvolvido com HTML, CSS e JavaScript puro. O projeto foi criado para praticar e demonstrar habilidades de lógica de programação e manipulação de elementos da página (DOM).
 
 ## 🎬 Demonstração
-(Aqui você pode usar o GIF que me enviou!)
+
+[jogo da memoria](https://github.com/user-attachments/assets/80772344-8ff6-4862-a653-85bc650b384e)
+
 
 ## ✨ Sobre o Projeto
 O Jogo da Memória é um passatempo interativo onde o jogador precisa encontrar todos os pares de cartas idênticas. Este projeto implementa toda a mecânica do jogo, desde a distribuição aleatória das cartas até a verificação dos pares e a condição de vitória. É um excelente exercício para quem está aprendendo desenvolvimento front-end.
@@ -55,7 +57,7 @@ Ou, se preferir, pode rodar localmente:
 ```
 Bash
 
-git clone https://github.com/[seu-usuario]/[nome-do-repositorio].git
+git clone https://github.com/eslbcdev/Jogo-da-Memoria.git
 ```
 2. Navegue até o diretório do projeto e abra o arquivo index.html no seu navegador.
 
@@ -70,7 +72,8 @@ Feito com ❤️ por Ester Costa
 A classic Memory Game developed with plain HTML, CSS, and JavaScript. This project was created to practice and demonstrate programming logic and DOM manipulation skills.
 
 ## 🎬 Demonstration
-(Here you can use the GIF you sent me!)
+
+[jogo da memoria](https://github.com/user-attachments/assets/80772344-8ff6-4862-a653-85bc650b384e)
 
 ## ✨ About the Project
 The Memory Game is an interactive pastime where the player needs to find all pairs of identical cards. This project implements the full game mechanics, from randomly shuffling the cards to checking for pairs and handling the win condition. It serves as an excellent exercise for anyone learning front-end development.
